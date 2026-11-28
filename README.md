@@ -50,43 +50,6 @@ Saya adalah seorang **Ethical Hacker & Security Researcher** yang berfokus pada 
 
 ---
 
-## Project Unggulan
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">(S.T.A.V)</h3>
-      <p align="center"><b>Shell Trap Anti Virus</b></p>
-      <p align="center">
-        Tool Python untuk memblokir perintah berbahaya & melindungi shell dari injeksi perintah.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=blue" />
-        <img src="https://img.shields.io/badge/Security-0055FF?style=flat-square&logo=hackthebox&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Ilhamxploit/stav">CEK REPO -></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Byte Tools</h3>
-      <p align="center"><b>Cyber Security Multi-Tools</b></p>
-      <p align="center">
-        Perkakas CLI serba bisa untuk cek Header Web, Port Scanner, WHOIS, Subdomain Finder, IP Tracker, dan deteksi CMS.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=blue" />
-        <img src="https://img.shields.io/badge/CLI-0055FF?style=flat-square&logo=gnu-bash&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/IlhamCysec/bytetool">CEK REPO -></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## Statistik
 
 <div align="center">
